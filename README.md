@@ -14,7 +14,7 @@ For example, e-commerce cosmetics sales are driven by ***special events** (promo
 
 This process called **features engineering** is based on **analytical concepts and business insights** to understand what could drive your sales.
 
-### Medium Article
+### Article
 In this [Article](https://www.samirsaci.com/machine-learning-for-retail-sales-forecasting-features-engineering/), will try to understand the impact of 
 several features on the accuracy of a model using the M5 Forecasting competition dataset.
 
