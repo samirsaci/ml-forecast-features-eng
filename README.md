@@ -36,14 +36,21 @@ Based on business insights and common sense, we will add features built on exist
 </p>
 
 ### Data set
-This analysis will be based on the M5 Forecasting dataset of Walmart store sales records ([Link](https://www.kaggle.com/c/m5-forecasting-accuracy)).
+This analysis will be based on the M5 Forecasting dataset of Walmart store sales records ([Link](https://www.kaggle.com/competitions/m5-forecasting-accuracy)).
 
 ## Code
 1. Create a folder named Data in your directory where the notebook is located
-2. Download all the files of the Kaggle forecasting competition ([Link](https://www.kaggle.com/c/m5-forecasting-accuracy)).
+2. Download all the files of the Kaggle forecasting competition ([Link](https://www.kaggle.com/competitions/m5-forecasting-accuracy)).
 3. Launch the notebook
 
-## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations.\
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)\
-Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
+## Go further
+
+- **The full write-up, with the reasoning behind the code:** [Machine Learning for Retail Sales Forecasting — Feature Engineering](https://www.samirsaci.com/machine-learning-for-retail-sales-forecasting-features-engineering/?utm_source=github&utm_medium=readme&utm_campaign=ml-forecast-features-eng)
+- **Test what you learned:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=readme&utm_campaign=ml-forecast-features-eng) has lessons and quizzes on inventory management, free and in the browser.
+- **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=readme&utm_campaign=ml-forecast-features-eng)
+
+## About me
+
+Samir Saci, supply chain engineer and data scientist with ten years in operations across Asia and Europe. Founder of [LogiGreen](https://www.logi-green.com/), creator of [Supply Science](https://www.youtube.com/@SupplyScience).
+For consulting on analytics and sustainable supply chain transformation: [LogiGreen](https://www.logi-green.com/). More about me: [samirsaci.com/about](https://www.samirsaci.com/about/) · [LinkedIn](https://www.linkedin.com/in/samir-saci/)
+
